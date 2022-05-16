@@ -120,7 +120,7 @@ function App() {
                 Ermeson Sampaio
               </h1>
               <p className="text-center mt-4 md:text-justify leading-relaxed text-base">
-                Estudande do ensino médio e Desnvolvedor Backend
+                Estudande do ensino médio e Desenvolvedor Backend
               </p>
             </div>
           </div>
